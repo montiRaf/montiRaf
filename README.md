@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 📊 Statistiche GitHub
 ![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=montiRaf&show_icons=true&theme=radical)
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=monritRaf&layout=compact&theme=radical)
+![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=montiRaf&layout=compact&theme=radical)
 
 ## 📫 Contatti
 
